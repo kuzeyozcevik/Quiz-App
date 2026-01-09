@@ -21,4 +21,7 @@ tkinter,
 requests,
 Open Trivia DB API
 
+pip3 install -r requirements.txt
+pip install -r requirements.txt
+
 ![image](https://github.com/kuzeyozcevik/Quiz-App/blob/3338d3da2200896f531548ce33096394cca8434d/App/ignore/ss.png)
